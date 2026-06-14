@@ -92,15 +92,15 @@ python main.py
 
 ## 📈 Visualizations
 
-### 📊 Sales by Product
+## 📊 Bar Chart
 
 ![Bar Chart](visualizations/bar_chart.png)
 
-### 🥧 Revenue Distribution
+## 🥧 Pie Chart
 
 ![Pie Chart](visualizations/pie_chart.png)
 
-### 💻 Program Output
+## 💻 Program Output
 
 ![Program Output](Program%20Output.png)
 
